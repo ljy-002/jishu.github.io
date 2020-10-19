@@ -2,7 +2,7 @@
 
 中国技术，GITI技术
 
-## 开发者计划成员：
+## 开发者计划成员/权限：
 
 <table>
   <tbody>
@@ -72,5 +72,53 @@
       </td>
       <!--分割线-->
      </tr>
+    <!--分割线-->
+    <tr>
+    <!--分割线-->
+    <td align="center">
+      <sub><b>MapMaths</b></sub>
+      <br>
+      <b>写入文件</b>
+      <br>
+      <a href="https://github.com/ljy-002/gushi.github.io/pull/42">解决问题（#42）</a>
+    </td>
+    <!--分割线-->
+    <td align="center">
+      <sub><b>Michael Liu-walkerljy</b></sub>
+      <br>
+      <b>写入文件</b>
+    </td>
+    <!--分割线-->
+    <td align="center">
+      <sub><b>Quinn-Little Earthworm</b></sub>
+      <br>
+      <b>写入文件</b>
+    </td>
+    <!--分割线-->
+    <td align="center">
+      <sub><b>ljy-002</b></sub>
+      <br>
+      <b>写入文件，所有者</b>
+    </td>
+    <!--分割线-->
+    <td align="center">
+      <sub><b>Adamtimmy</b></sub>
+      <br>
+      <b>写入文件</b>
+    </td>
+    <!--分割线-->
+    <td align="center">
+      <sub><b>Adamtimmy-AT</b></sub>
+      <br>
+      <b>暂无</b>
+    </td>
+    <!--分割线-->
+    <td align="center">
+      <sub><b>Adamtimmy2</b></sub>
+      <br>
+      <b>暂无</b>
+    </td>
+    <!--分割线-->
+    </tr>
   </tbody>
 </table>
